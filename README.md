@@ -1,3 +1,5 @@
+![Version](https://img.shields.io/badge/Version-1.0.0-green.svg) ![Language](https://img.shields.io/badge/Language-python-darkgreen.svg) 
+
 Instagram Photo Downloader
 ==========================
 ## All_Image_download.py
